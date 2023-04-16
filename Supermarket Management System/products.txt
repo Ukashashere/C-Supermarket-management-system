@@ -1,0 +1,3 @@
+Product: shampoo Price: 15
+Product Name: beer Price: 700
+Product Name: beardo_oil Price: 899

@@ -1,0 +1,17 @@
+Procedure
+1. create user_menu() ----- created
+2. create a class for login and registration ------ created
+3. create registration for customer ----- created
+4. create registration for admin ------ created
+5. create registration for staff ------ created
+6. create login for admin ------- created
+7. create login for customer ------- created
+8. create login for staff ------- created
+9. create a func place_your_order() for customer ------- created
+10. create a func satff_module() for staff -------- created
+11. create funcs. for admin module: --------- DONE
+	a. add/create product
+	b. check_the_orders_by_customers
+	c. exit the module
+12. call each functions
+13. Exit the system (WORK DONE) --------- Done
